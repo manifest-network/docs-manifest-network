@@ -11,9 +11,8 @@ icon: link
 * Network Statistics:[ https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
 * Network Map:[ https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
 * Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
-* Mainnet Explorer:\
-  Block-level transaction and validator tracking\
-  🔗 [talib.liftedinit.app](http://talib.liftedinit.app)
+* Cosmos SDK Mainnet Explorer: [https://explorer.manifest.network/](https://explorer.manifest.network/)
+* Alpha (soon to be depreciated) network Mainnet Explorer: [talib.liftedinit.app](http://talib.liftedinit.app)
 * Node Deployment Map:\
   Geographic visualization of active Manifest nodes\
   🔗 [talib.liftedinit.app/#/map](http://talib.liftedinit.app/#/map)
