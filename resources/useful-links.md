@@ -11,5 +11,17 @@ icon: link
 * Network Statistics:[ https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
 * Network Map:[ https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
 * Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
+* Mainnet Explorer:\
+  Block-level transaction and validator tracking\
+  🔗 [talib.liftedinit.app](http://talib.liftedinit.app)
+* Node Deployment Map:\
+  Geographic visualization of active Manifest nodes\
+  🔗 [talib.liftedinit.app/#/map](http://talib.liftedinit.app/#/map)
+* Testnet Dashboard:\
+  Public testnet monitoring and usage stats\
+  🔗 [gwen.liftedinit.app](http://gwen.liftedinit.app)
+* Testnet Explorers:
+  * [manifest.explorers.guru](http://manifest.explorers.guru)
+  * [cosmos.directory/manifest](http://cosmos.directory/manifest)
 
 Technical Documentation (Gitbook):[ https://lifted-3.gitbook.io/manifest-network/](https://lifted-3.gitbook.io/manifest-network/)
