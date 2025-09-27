@@ -28,8 +28,7 @@
 ## Resources
 
 * [Useful Links](resources/useful-links.md)
-* [FAQ](resources/faq.md)
-* [Manifest Network](https://manifestai.org)
+* [Manifest Network](https://manifest.network/)
 * [The Lifted Initiative](https://liftedinit.org)
 
 ## Alberto Wallet

@@ -20,8 +20,5 @@ icon: link
 * Testnet Dashboard:\
   Public testnet monitoring and usage stats\
   🔗 [gwen.liftedinit.app](http://gwen.liftedinit.app)
-* Testnet Explorers:
-  * [manifest.explorers.guru](http://manifest.explorers.guru)
-  * [cosmos.directory/manifest](http://cosmos.directory/manifest)
 
 Technical Documentation (Gitbook):[ https://lifted-3.gitbook.io/manifest-network/](https://lifted-3.gitbook.io/manifest-network/)
