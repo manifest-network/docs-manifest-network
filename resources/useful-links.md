@@ -4,9 +4,10 @@ icon: link
 
 # Useful Links
 
-* Manifest Network Website:[ https://manifestai.org/](https://manifestai.org/)
+* Manifest Network Website: [https://manifest.network](https://manifest.network/)
 * Partner Deck:[ https://docsend.com/view/qhafgmqq9bdcmyfu](https://docsend.com/view/qhafgmqq9bdcmyfu)
-* Tokenomics Whitepaper:[ https://docsend.com/view/keiqc95r4b5jjjfr](https://docsend.com/view/keiqc95r4b5jjjfr)
+* Smart Contract Audits by Hashlock:\
+  🔗[ hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
 * Network Statistics:[ https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
 * Network Map:[ https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
 * Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
