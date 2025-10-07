@@ -13,7 +13,7 @@ icon: link
 General information:
 
 * Partner Deck:[ https://docsend.com/view/qhafgmqq9bdcmyfu](https://docsend.com/view/qhafgmqq9bdcmyfu)
-* Whitepaper:&#x20;
+* Whitepaper: [https://tinyurl.com/manifestwp](https://tinyurl.com/manifestwp)
 * Beta Network wallet: [https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
 
 Technical Information:
