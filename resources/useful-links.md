@@ -1,23 +1,33 @@
 ---
+description: 'Social Links:'
 icon: link
 ---
 
 # Useful Links
 
 * Manifest Network Website: [https://manifest.network](https://manifest.network/)
-* Partner Deck:[ https://docsend.com/view/qhafgmqq9bdcmyfu](https://docsend.com/view/qhafgmqq9bdcmyfu)
-* Smart Contract Audits by Hashlock:\
-  🔗[ hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
-* Network Statistics:[ https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
-* Network Map:[ https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
-* Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
-* Cosmos SDK Mainnet Explorer: [https://explorer.manifest.network/](https://explorer.manifest.network/)
-* Alpha (soon to be depreciated) network Mainnet Explorer: [talib.liftedinit.app](http://talib.liftedinit.app)
-* Node Deployment Map:\
-  Geographic visualization of active Manifest nodes\
-  🔗 [talib.liftedinit.app/#/map](http://talib.liftedinit.app/#/map)
-* Testnet Dashboard:\
-  Public testnet monitoring and usage stats\
-  🔗 [gwen.liftedinit.app](http://gwen.liftedinit.app)
+* X/Twitter : [https://manifest.network/](https://manifest.network/)
+* Medium: [https://medium.com/@themanifestnetwork/about](https://medium.com/@themanifestnetwork/about)
+* Linkedin:  [https://www.linkedin.com/company/the-manifest-network/](https://www.linkedin.com/company/the-manifest-network/)
 
-Technical Documentation (Gitbook):[ https://lifted-3.gitbook.io/manifest-network/](https://lifted-3.gitbook.io/manifest-network/)
+General information:
+
+* Partner Deck:[ https://docsend.com/view/qhafgmqq9bdcmyfu](https://docsend.com/view/qhafgmqq9bdcmyfu)
+* Whitepaper:&#x20;
+* Beta Network wallet: [https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
+
+Technical Information:
+
+* Testnet Beta Dashboard: [ https://metrics.liftedinit.tech/](https://metrics.liftedinit.tech/)
+* Smart Contract Audits by Hashlock: [hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
+* Network Statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
+* Node Deployment Map:  [https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
+* Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
+
+Alpha Network (soon to be depreciated):
+
+* Alpha Network Mainnet Explorer: [talib.liftedinit.app](http://talib.liftedinit.app)
+* Alpha Network statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
+* Alpha Network wallet: [https://alberto.app/](https://alberto.app/)
+
+This document (Gitbook):[ https://lifted-3.gitbook.io/manifest-network/](https://lifted-3.gitbook.io/manifest-network/)
