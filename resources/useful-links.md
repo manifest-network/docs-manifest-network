@@ -23,7 +23,6 @@ icon: link
 * Smart Contract Audits by Hashlock: [hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
 * Network Statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
 * Node Deployment Map:  [https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
-* Alberto Wallet & Tools:[ https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
 
 **Alpha Network (soon to be depreciated):**
 
