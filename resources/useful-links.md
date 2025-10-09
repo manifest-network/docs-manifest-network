@@ -7,7 +7,7 @@ icon: link
 **Social Links:**
 
 * Manifest Network Website: [https://manifest.network](https://manifest.network/)
-* X/Twitter : [https://manifest.network/](https://manifest.network/)
+* X/Twitter : [https://x.com/ManifestAIs/](https://x.com/ManifestAIs/)
 * Medium: [https://medium.com/@themanifestnetwork/about](https://medium.com/@themanifestnetwork/about)
 * Linkedin:  [https://www.linkedin.com/company/the-manifest-network/](https://www.linkedin.com/company/the-manifest-network/)
 
@@ -19,12 +19,12 @@ icon: link
 
 **Technical Information:**
 
-* Testnet Beta Dashboard: [ https://metrics.liftedinit.tech/](https://metrics.liftedinit.tech/)
+* Testnet Beta (Cosmos SDK) Dashboard: [ https://metrics.liftedinit.tech/](https://metrics.liftedinit.tech/)
 * Smart Contract Audits by Hashlock: [hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
 * Network Statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
 * Node Deployment Map:  [https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
 
-**Alpha Network (soon to be depreciated):**
+**Alpha (Many) Network (soon to be depreciated):**
 
 * Alpha Network Mainnet Explorer: [talib.liftedinit.app](http://talib.liftedinit.app)
 * Alpha Network statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
