@@ -15,6 +15,7 @@ icon: link
 
 * Partner Deck:[ https://docsend.com/view/qhafgmqq9bdcmyfu](https://docsend.com/view/qhafgmqq9bdcmyfu)
 * Whitepaper: [https://tinyurl.com/manifestwp](https://tinyurl.com/manifestwp)
+* Token swap for compute: [https://tinyurl.com/3vfbhx6x](https://tinyurl.com/3vfbhx6x)
 * Beta Network interface: [https://wallet.liftedinit.app/](https://wallet.liftedinit.app/)
 
 **Technical Information:**
@@ -22,9 +23,10 @@ icon: link
 * Testnet Beta (Cosmos SDK) Dashboard: [ https://metrics.liftedinit.tech/](https://metrics.liftedinit.tech/)
 * Smart Contract Audits by Hashlock: [hashlock.com/audits/manifest](https://hashlock.com/audits/manifest)
 * Network Statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
+* PWR Plant: [https://tinyurl.com/4xt2bebp](https://tinyurl.com/4xt2bebp)
 * Node Deployment Map:  [https://talib.liftedinit.app/#/map](https://talib.liftedinit.app/#/map)
 
-**Alpha (Many) Network (soon to be depreciated):**
+**Alpha (Many) Network:**
 
 * Alpha Network Mainnet Explorer: [talib.liftedinit.app](http://talib.liftedinit.app)
 * Alpha Network statistics: [https://talib.liftedinit.app/#/metrics](https://talib.liftedinit.app/#/metrics)
